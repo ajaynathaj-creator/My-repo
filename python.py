@@ -1,4 +1,7 @@
-Print("Hello, World!")
+a=12
+b=14
+c=a+b
+print(c)
 
-name = input("What is your name? ")
-print(f"Hello, {name}!")
+DNA="ATGCGCGCGCGCGCTGCTGCTGCTGCTGCTGCTGCT"
+print(DNA)
