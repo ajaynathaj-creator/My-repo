@@ -12,3 +12,6 @@ print(DNA3)
 
 countA=DNA.count("A")
 print(countA)
+
+countB=DNA.count("B")
+print(countB)
