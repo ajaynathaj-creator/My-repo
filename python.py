@@ -9,3 +9,6 @@ print(DNA)
 DNA_2="ATATATATAGGGGGGGGTGTGATGATGCCCGTAG"
 DNA3=DNA+DNA_2
 print(DNA3)
+
+countA=DNA.count("A")
+print(countA)
